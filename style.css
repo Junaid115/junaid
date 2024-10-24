@@ -1,0 +1,42 @@
+h1,h2,h5 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+body{
+    border: 8px double black;
+}
+
+.sampleText {
+    height: 200px;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+.ansText{
+    height: 200px;
+    width: 70%;
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+.container{
+    border-bottom: 2px dashed black !important;
+}
+
+.left-main {
+    height: 300px;
+    width: 45%;
+}
+
+.timer {
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 8px;
+}
+.answer{
+    display: none !important;
+}
+.answer1{
+    display: flex !important;
+}
